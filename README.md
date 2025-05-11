@@ -1,10 +1,11 @@
-# vue-project
+# Laboratory task 12
+It's simple application, which shows simple features of Vue Framework and Pinia.
 
-This template should help get you started developing with Vue 3 in Vite.
+Builded with **Pinia** and **Vue 3 (Composition API)**
 
 ## Recommended IDE Setup
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
+VSCode or WebStorm
 
 ## Customize configuration
 
